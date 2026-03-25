@@ -7,15 +7,14 @@ Coleção de links organizados por matéria/unidade/aula.
 - [Introdução à Computação](#introdução-à-computação)
 - [AEDS](#aeds)
 - [Geometria Analítica](#geometria-analítica)
-- [CTS](#ciência,-tecnologia-e-sociedade)
-- [Metodologia ciêntífica](#metodologia-cientifica) em manutenção.
+- [CTS](#cts)
+- [Metodologia Científica](#metodologia-científica)
 
 ---
 
 ## Sistemas Digitais
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Aula 1 — Introdução aos Sistemas Digitais
@@ -53,10 +52,9 @@ Coleção de links organizados por matéria/unidade/aula.
 ## Introdução à Computação
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
-### Unidade 1 – Introdução à Computação
+### Unidade 1 — Introdução à Computação
 **Conceito de computador**
 - https://www.youtube.com/watch?v=gYbf1NmGv_E&utm_source=chatgpt.com
 
@@ -66,7 +64,7 @@ Coleção de links organizados por matéria/unidade/aula.
 **Componentes funcionais: entrada, processamento, armazenamento e saída**
 - https://www.youtube.com/watch?v=CgqpWUYa-P0&utm_source=chatgpt.com
 
-### Unidade 2 – Hardware e Software
+### Unidade 2 — Hardware e Software
 **Conceito de Hardware**
 - https://www.youtube.com/watch?v=4o_7dsFm_uU&utm_source=chatgpt.com
 
@@ -96,7 +94,6 @@ Coleção de links organizados por matéria/unidade/aula.
 ## AEDS
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Aula 1 — Introdução a Algoritmos
@@ -145,7 +142,6 @@ Coleção de links organizados por matéria/unidade/aula.
 ## Geometria Analítica
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 **Apresentação da disciplina e revisão: equações do 1º grau e do 2º grau**
@@ -165,10 +161,9 @@ Coleção de links organizados por matéria/unidade/aula.
 
 ---
 
-## Ciência, Tecnologia e Sociedade
+## CTS
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 **O que é ciência**
@@ -185,12 +180,9 @@ Coleção de links organizados por matéria/unidade/aula.
 
 ---
 
-## Metodologia Ciêntífica
+## Metodologia Científica
 
 #### Assistir os vídeos em sequência -> do primeiro ao último.
-
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
-# EM MANUTENÇÃO!
-
-
+**EM MANUTENÇÃO!**

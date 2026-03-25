@@ -18,10 +18,10 @@ Coleção de links organizados por matéria/unidade/aula.
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Aula 1 — Introdução aos Sistemas Digitais
-- https://www.youtube.com/watch?v=r3HhoxMRv4U&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=NPHXpl0zZYI&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=DrWsHruJqGw&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=OOmtQ_dRN4U&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=r3HhoxMRv4U
+- https://www.youtube.com/watch?v=NPHXpl0zZYI
+- https://www.youtube.com/watch?v=DrWsHruJqGw
+- https://www.youtube.com/watch?v=OOmtQ_dRN4U
 
 ### Aula 2 — Representação de Dados
 - https://www.youtube.com/watch?v=ppCUb9Mnn4I&utm_source=chatgpt.com

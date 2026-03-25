@@ -7,8 +7,8 @@ Coleção de links organizados por matéria/unidade/aula.
 - [Introdução à Computação](#introdução-à-computação)
 - [AEDS](#aeds)
 - [Geometria Analítica](#geometria-analítica)
-- [Ciência, Tecnologia e Sociedade](#ciência,-tecnologia-e-sociedade)
-- Metodologia ciêntífica - em manutenção.
+- [CTS](#ciência,-tecnologia-e-sociedade)
+- [Metodologia ciêntífica](#metodologia-cientifica) em manutenção.
 
 ---
 

@@ -48,9 +48,6 @@ Coleção de links organizados por matéria/unidade/aula.
 - https://www.youtube.com/watch?v=IbUD1Xfx6gI&utm_source=chatgpt.com
 - https://www.youtube.com/watch?v=uFNZaj1eeug&utm_source=chatgpt.com
 
-### Exercícios práticos
-- https://www.youtube.com/watch?v=oAmK1WwOp-Q&utm_source=chatgpt.com
-
 ---
 
 ## Introdução à Computação
@@ -143,15 +140,6 @@ Coleção de links organizados por matéria/unidade/aula.
 - https://www.youtube.com/watch?v=LQNzQCddjHQ&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=8&pp=iAQB
 - https://www.youtube.com/watch?v=MGUpDTEc3SM&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=10&pp=iAQB
 
-### Aula 6 — PROVA 1 (revisão geral do conteúdo)
-**Conteúdo**
-- Algoritmos
-- Fluxograma
-- Pseudocódigo
-- Tipos de dados
-- Operadores e expressões
-- Estruturas condicionais
-
 ---
 
 ## Geometria Analítica
@@ -194,3 +182,15 @@ Coleção de links organizados por matéria/unidade/aula.
 
 **O problema da indução**
 - https://www.youtube.com/watch?v=np3OVCA2WB4&utm_source=chatgpt.com
+
+---
+
+## Metodologia Ciêntífica
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
+
+# EM MANUTENÇÃO!
+
+

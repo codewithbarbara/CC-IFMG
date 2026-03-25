@@ -1,6 +1,6 @@
-# Materiais de Estudo — Engenharia de Software (PUC Minas) | Links do YouTube
+# Materiais de Estudo — CC IFMG
 
-Coleção de links organizada por matéria/unidade/aula.
+Coleção de links organizados por matéria/unidade/aula.
 
 ## Sumário
 - [Sistemas Digitais](#sistemas-digitais)
@@ -13,6 +13,10 @@ Coleção de links organizada por matéria/unidade/aula.
 ---
 
 ## Sistemas Digitais
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Aula 1 — Introdução aos Sistemas Digitais
 - https://www.youtube.com/watch?v=r3HhoxMRv4U&utm_source=chatgpt.com
@@ -50,6 +54,10 @@ Coleção de links organizada por matéria/unidade/aula.
 ---
 
 ## Introdução à Computação
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Unidade 1 – Introdução à Computação
 **Conceito de computador**
@@ -89,6 +97,10 @@ Coleção de links organizada por matéria/unidade/aula.
 ---
 
 ## AEDS
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 ### Aula 1 — Introdução a Algoritmos
 - https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&index=1&pp=iAQB
@@ -140,15 +152,13 @@ Coleção de links organizada por matéria/unidade/aula.
 - Operadores e expressões
 - Estruturas condicionais
 
-**Links**
-- https://www.youtube.com/watch?v=QOXSD2KNZjE&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=DSrdRDTwG9k&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=coH7zjPsqHc&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=_xUu2ms1Nf0&utm_source=chatgpt.com
-
 ---
 
 ## Geometria Analítica
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 **Apresentação da disciplina e revisão: equações do 1º grau e do 2º grau**
 - https://www.youtube.com/watch?v=tfm9kUrO5GI&utm_source=chatgpt.com
@@ -167,16 +177,20 @@ Coleção de links organizada por matéria/unidade/aula.
 
 ---
 
-## Filosofia da Ciência
+## Ciência, Tecnologia e Sociedade
+
+#### Assistir os vídeos em sequência -> do primeiro ao último.
+
+#### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 **O que é ciência**
 - https://www.youtube.com/watch?v=Mi5Bx5quo5E&utm_source=chatgpt.com
 
-**[EaD] Indutivismo: ciência como conhecimento derivado dos dados da experiência**
+**Indutivismo: ciência como conhecimento derivado dos dados da experiência**
 - https://www.youtube.com/watch?v=98YuS9NuWZA&utm_source=chatgpt.com
 
 **Ciência: falsificacionismo e paradigmas**
 - https://www.youtube.com/watch?v=gkjJfCTEsa4&utm_source=chatgpt.com
 
-**[EaD] O problema da indução**
+**O problema da indução**
 - https://www.youtube.com/watch?v=np3OVCA2WB4&utm_source=chatgpt.com
